@@ -1,0 +1,2 @@
+# rmi
+java rmi sample
