@@ -18,7 +18,7 @@
       <module name="rmi-server" target="1.7" />
       <module name="rmiclient" target="1.8" />
       <module name="rmiserver" target="1.8" />
-      <module name="server" target="1.8" />
+      <module name="server" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
